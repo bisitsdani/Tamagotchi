@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tamagotchi</string>
+    <string name="etetes">Etetés</string>
+    <string name="jatszas">Játszás</string>
+    <string name="karakter">karakter</string>
+    <string name="money">100</string>
+    <string name="currentmoney">currentMoney</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name="shoppingcart">shoppingcart</string>
+    <string name="game">Game</string>
+    <string name="hunger">hunger</string>
+    <string name="bolt">Bolt</string>
+    <string name="adatok_t_rl_se">Adatok törlése</string>
+    <string name="_100">10</string>
+</resources>
